@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anishkr](https://medium.com/@anishkr)
 
-- 💬 Ask me about **Angular, MongoDB, Python**
+- 💬 Ask me about **Angular, MongoDB, Python, NodeJs**
 
 - 📫 How to reach me **kr.anish96@gmail.com**
 
